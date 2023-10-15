@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from 'react-dom';
 import Search from "./components/Search";
 import Movies from "./components/Movies";
+import './index.css';
 class App extends React.Component {
   constructor(props) {
     super(props);
