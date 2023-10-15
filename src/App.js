@@ -1,4 +1,4 @@
-import React from "https://cdn.skypack.dev/react";
+import React from "react";
 import Search from "./components/Search";
 import Movies from "./components/Movies";
 class App extends React.Component {
