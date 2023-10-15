@@ -1,5 +1,5 @@
-import React from "https://cdn.skypack.dev/react";
-import PropTypes from "https://cdn.skypack.dev/prop-types";
+import React from "react";
+import PropTypes from "prop-types";
 
 import Movie from "./Movie";
 const Movies = props => (
