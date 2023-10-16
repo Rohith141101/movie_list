@@ -76,6 +76,7 @@ input {
   font-weight: normal;
   font-variant: small-caps;
   margin: 0;
+  text-align:center;
 }
 
 .footer {
