@@ -67,7 +67,7 @@ input {
   opacity:0.8;
   display:none;
 }
-.movie:hover .figcaption{
+.movie:hover figcaption{
   display:block;
 }
 
