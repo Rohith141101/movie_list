@@ -57,6 +57,9 @@ input {
   position:relative;
   bottom:150px;
   padding: 1em;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
 
 .movie__title {
