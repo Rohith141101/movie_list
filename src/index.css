@@ -77,9 +77,6 @@ input {
 }  
 @media and (max-width:375px){
   .search{
-    font-size: 12px;
-  }
-  .search [type='search']{
-    height:15px;
+    font-size: 8px;
   }
 }
