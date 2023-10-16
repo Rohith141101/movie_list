@@ -54,7 +54,7 @@ input {
 }
 
 .movie figcaption {
-  position:absolute;
+  position:relative;
   bottom:50px;
   padding: 1em;
 }
