@@ -49,9 +49,6 @@ input {
   margin: 0;
   padding: 0;
 }
-.movies > li:hover{
-  box-shadow:1px 1px 2px white;
-}
 
 .movies > li {
   box-shadow: 0 0 1em rgba(0, 0, 0, 0.3);
