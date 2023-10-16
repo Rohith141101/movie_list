@@ -75,3 +75,11 @@ input {
   text-align: center;
   font-family: Sans-serif;
 }  
+@media and (max-width:375px){
+  .search{
+    font-size: 1rem;
+  }
+  .search [type='search']{
+    height:20px;
+  }
+}
