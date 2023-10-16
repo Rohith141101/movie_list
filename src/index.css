@@ -60,6 +60,11 @@ input {
   display:flex;
   justify-content:center;
   align-items:center;
+  background-color:black;
+  opacity:0.4;
+}
+.movie:hover .figcaption{
+  
 }
 
 .movie__title {
