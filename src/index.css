@@ -65,9 +65,10 @@ input {
   align-items:center;
   background-color:black;
   opacity:0.8;
+  display:none;
 }
 .movie:hover .figcaption{
-  
+  display:block;
 }
 
 .movie__title {
